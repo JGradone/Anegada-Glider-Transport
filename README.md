@@ -9,19 +9,19 @@ Work-Flow
 ----------------------
 These notebooks are labeled with the prefix 01_, 02_, 03_, etc. to show the order of operations.
 
-01_ notebook
+01_ notebooks
 ----------------------
 This notebook was used to become familiar with the data and some of the processing steps through a quick data exploration.
 
-02_ notebook
+02_ notebooks
 ----------------------
 This notebook was used to pre-process the AD2CP data. Additional information is included in the notebook.
 
-03_ notebook
+03_ notebooks
 ----------------------
 This notebook was used to take the data processed in the 02_ notebook, read in glider data using ERDDAP, perform a least squares linear inversion to extract horizontal velocity profiles, and save the output.
 
-04_ notebook
+04_ notebooks
 ----------------------
 This step is the analysis!
 
