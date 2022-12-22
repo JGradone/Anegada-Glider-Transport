@@ -7,7 +7,7 @@ The dataset used in this analysis can be found here: https://doi.org/10.5281/zen
 
 Work-Flow
 ----------------------
-These notebooks are labeled with the prefix 01_, 02_, 03_, etc. to show the order of operations.
+These notebooks are labeled with the prefix 01_, 02_, 03_, and _04 to show the order of operations.
 
 01_ notebooks
 ----------------------
